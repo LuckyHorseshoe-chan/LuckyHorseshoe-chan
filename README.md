@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Anna Volgina. I am a 3-year student of BMSTU, Moscow, Russia. I am interested in machine learning and bioinformatics. Usually I use Python (numpy, pandas, matplotlib), also know C++. Have expirience of frontend development on React, working with databases, ROS and creating simple neural networks.
+My name is Anna Volgina. I am a master student of ITMO, St Petersburg, Russia. I am interested in machine learning and bioinformatics. Usually I use Python (numpy, pandas, matplotlib), also know C++. Have expirience of frontend development on React, working with databases, ROS and creating simple neural networks.
